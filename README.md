@@ -161,7 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Original design from [Figma Marketplace App Design](https://www.figma.com/design/uYM11KEk1QFzb5v7h6dxmN/Marketplace-App-Development)
 - Built with modern web technologies and best practices
 - Community contributions and feedback welcome
 
